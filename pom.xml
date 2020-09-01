@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.zaubershlosss</groupId>
     <artifactId>z-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>z-pet-clinic</name>
     <description>Zauberschlosss Pet Clinic Project</description>
 
@@ -41,7 +41,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/zauberschlosss/z-pet-clinic.git</developerConnection>
-      <tag>z-pet-clinic-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
