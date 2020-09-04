@@ -1,11 +1,11 @@
 package com.zaubershlosss.zpetclinic.services.map;
 
 import com.zaubershlosss.zpetclinic.model.Vet;
-import com.zaubershlosss.zpetclinic.services.CrudService;
+import com.zaubershlosss.zpetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapServices<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapServices<Vet, Long> implements VetService {
     @Override
     public Set<Vet> findAll() {
         return super.findAll();
