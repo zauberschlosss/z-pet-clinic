@@ -1,1 +1,1 @@
-# pet-clinic
+Multi-module Maven project
